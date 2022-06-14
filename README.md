@@ -15,3 +15,7 @@ Application of C Programming to Aeronautical engineering
 Aeronautical is the science or art involved with the study, design, and manufacturing of air flight–capable machines, and the techniques of operating aircraft and rockets within the atmosphere. The British Royal Aeronautical Society identifies the aspects of "aeronautical Art, Science and Engineering" and "The profession of Aeronautics (which expression includes Astronautics)."[1]
 
 ## Aeronautical Menu
+- [x] Calculation of atmospheric characteristics ISA
+- [X] Calculation of acceleration due to gravity
+- [X] Aircraft lift calculation 
+- [x] Aircraft drag calculation
