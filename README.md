@@ -19,3 +19,6 @@ Aeronautical is the science or art involved with the study, design, and manufact
 - [X] Calculation of acceleration due to gravity
 - [X] Aircraft lift calculation 
 - [x] Aircraft drag calculation
+
+
+![menu](https://user-images.githubusercontent.com/97229948/173519806-bbbb511f-fa18-44e6-bfee-7582e266e5a0.png)
