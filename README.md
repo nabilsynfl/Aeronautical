@@ -2,13 +2,13 @@
 Application of C Programming to Aeronautical engineering
 
 
-![](https://img.shields.io/github/license/Nabil-Syahnaufal/atmosferISA)
-![](https://img.shields.io/github/issues/Nabil-Syahnaufal/atmosferISA)
-![](https://img.shields.io/github/issues-closed/Nabil-Syahnaufal/atmosferISA)
-![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/github/forks/Nabil-Syahnaufal/atmosferISA)
-![](https://img.shields.io/github/stars/Nabil-Syahnaufal/atmosferISA)
-![](https://img.shields.io/github/last-commit/Nabil-Syahnaufal/atmosferISA)
+![](https://img.shields.io/github/license/Nabil-Syahnaufal/Aeronautical)
+![](https://img.shields.io/github/issues/Nabil-Syahnaufal/Aeronautical)
+![](https://img.shields.io/github/issues-closed/Nabil-Syahnaufal/Aeronautical)
+![](https://img.shields.io/badge/C-3-blue)
+![](https://img.shields.io/github/forks/Nabil-Syahnaufal/Aeronautical)
+![](https://img.shields.io/github/stars/Nabil-Syahnaufal/Aeronautical)
+![](https://img.shields.io/github/last-commit/Nabil-Syahnaufal/Aeronautical)
 
 
 ## What is Aeronautical?
