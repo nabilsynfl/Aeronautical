@@ -1,5 +1,5 @@
 # Aeronautical
-Application of c Programming to Aeronautical engineering
+Application of C Programming to Aeronautical engineering
 
 
 ![](https://img.shields.io/github/license/Nabil-Syahnaufal/atmosferISA)
